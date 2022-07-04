@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/bulid/index.html/static/css/main.542477c0.css",
-    "main.js": "/portfolio/bulid/index.html/static/js/main.56956bac.js",
-    "static/media/NotoSansKR-Regular.otf": "/portfolio/bulid/index.html/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
-    "static/media/vision.png": "/portfolio/bulid/index.html/static/media/vision.467e97c93d64b044ded0.png",
-    "static/media/solutions.jpg": "/portfolio/bulid/index.html/static/media/solutions.40ceacb3cd99dcc0ad64.jpg",
-    "static/media/strategies.jpg": "/portfolio/bulid/index.html/static/media/strategies.dc103e4891bdb945a08d.jpg",
-    "static/media/gic.png": "/portfolio/bulid/index.html/static/media/gic.4dcb37520a4e3f6efcca.png",
-    "static/media/gic_map.png": "/portfolio/bulid/index.html/static/media/gic_map.19cfe4528fb812387e51.png",
-    "static/media/intro3.png": "/portfolio/bulid/index.html/static/media/intro3.173a8e4b0d34d6cfe8e8.png",
-    "static/media/OpenSans-Regular.ttf": "/portfolio/bulid/index.html/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
-    "index.html": "/portfolio/bulid/index.html/index.html",
-    "main.542477c0.css.map": "/portfolio/bulid/index.html/static/css/main.542477c0.css.map",
-    "main.56956bac.js.map": "/portfolio/bulid/index.html/static/js/main.56956bac.js.map"
+    "main.css": "/portfolio/build/index.html/static/css/main.737c1ba1.css",
+    "main.js": "/portfolio/build/index.html/static/js/main.205723b8.js",
+    "static/media/NotoSansKR-Regular.otf": "/portfolio/build/index.html/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
+    "static/media/vision.png": "/portfolio/build/index.html/static/media/vision.467e97c93d64b044ded0.png",
+    "static/media/solutions.jpg": "/portfolio/build/index.html/static/media/solutions.40ceacb3cd99dcc0ad64.jpg",
+    "static/media/strategies.jpg": "/portfolio/build/index.html/static/media/strategies.dc103e4891bdb945a08d.jpg",
+    "static/media/gic.png": "/portfolio/build/index.html/static/media/gic.4dcb37520a4e3f6efcca.png",
+    "static/media/gic_map.png": "/portfolio/build/index.html/static/media/gic_map.19cfe4528fb812387e51.png",
+    "static/media/intro3.png": "/portfolio/build/index.html/static/media/intro3.173a8e4b0d34d6cfe8e8.png",
+    "static/media/OpenSans-Regular.ttf": "/portfolio/build/index.html/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "index.html": "/portfolio/build/index.html/index.html",
+    "main.737c1ba1.css.map": "/portfolio/build/index.html/static/css/main.737c1ba1.css.map",
+    "main.205723b8.js.map": "/portfolio/build/index.html/static/js/main.205723b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.542477c0.css",
-    "static/js/main.56956bac.js"
+    "static/css/main.737c1ba1.css",
+    "static/js/main.205723b8.js"
   ]
 }
