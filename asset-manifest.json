@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/index.html/static/css/main.a32fcde1.css",
+    "main.js": "/portfolio/index.html/static/js/main.88af6310.js",
+    "static/media/NotoSansKR-Regular.otf": "/portfolio/index.html/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
+    "static/media/vision.png": "/portfolio/index.html/static/media/vision.467e97c93d64b044ded0.png",
+    "static/media/solutions.jpg": "/portfolio/index.html/static/media/solutions.40ceacb3cd99dcc0ad64.jpg",
+    "static/media/strategies.jpg": "/portfolio/index.html/static/media/strategies.dc103e4891bdb945a08d.jpg",
+    "static/media/gic.png": "/portfolio/index.html/static/media/gic.4dcb37520a4e3f6efcca.png",
+    "static/media/gic_map.png": "/portfolio/index.html/static/media/gic_map.19cfe4528fb812387e51.png",
+    "static/media/intro3.png": "/portfolio/index.html/static/media/intro3.173a8e4b0d34d6cfe8e8.png",
+    "static/media/OpenSans-Regular.ttf": "/portfolio/index.html/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "index.html": "/portfolio/index.html/index.html",
+    "main.a32fcde1.css.map": "/portfolio/index.html/static/css/main.a32fcde1.css.map",
+    "main.88af6310.js.map": "/portfolio/index.html/static/js/main.88af6310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a32fcde1.css",
+    "static/js/main.88af6310.js"
+  ]
+}
