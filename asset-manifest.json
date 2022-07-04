@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ef78860a.css",
-    "main.js": "/portfolio/static/js/main.cdebba89.js",
+    "main.js": "/portfolio/static/js/main.b8739826.js",
     "static/media/NotoSansKR-Regular.otf": "/portfolio/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
     "static/media/vision.png": "/portfolio/static/media/vision.467e97c93d64b044ded0.png",
     "static/media/strategies.jpg": "/portfolio/static/media/strategies.dc103e4891bdb945a08d.jpg",
@@ -12,10 +12,10 @@
     "static/media/OpenSans-Regular.ttf": "/portfolio/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
     "index.html": "/portfolio/index.html",
     "main.ef78860a.css.map": "/portfolio/static/css/main.ef78860a.css.map",
-    "main.cdebba89.js.map": "/portfolio/static/js/main.cdebba89.js.map"
+    "main.b8739826.js.map": "/portfolio/static/js/main.b8739826.js.map"
   },
   "entrypoints": [
     "static/css/main.ef78860a.css",
-    "static/js/main.cdebba89.js"
+    "static/js/main.b8739826.js"
   ]
 }
