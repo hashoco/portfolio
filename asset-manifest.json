@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/build/static/css/main.ebefe503.css",
-    "main.js": "/portfolio/build/static/js/main.5272e5b0.js",
-    "static/media/NotoSansKR-Regular.otf": "/portfolio/build/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
-    "static/media/vision.png": "/portfolio/build/static/media/vision.467e97c93d64b044ded0.png",
-    "static/media/solutions.jpg": "/portfolio/build/static/media/solutions.40ceacb3cd99dcc0ad64.jpg",
-    "static/media/strategies.jpg": "/portfolio/build/static/media/strategies.dc103e4891bdb945a08d.jpg",
-    "static/media/gic.png": "/portfolio/build/static/media/gic.4dcb37520a4e3f6efcca.png",
-    "static/media/gic_map.png": "/portfolio/build/static/media/gic_map.19cfe4528fb812387e51.png",
-    "static/media/intro3.png": "/portfolio/build/static/media/intro3.173a8e4b0d34d6cfe8e8.png",
-    "static/media/OpenSans-Regular.ttf": "/portfolio/build/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
-    "index.html": "/portfolio/build/index.html",
-    "main.ebefe503.css.map": "/portfolio/build/static/css/main.ebefe503.css.map",
-    "main.5272e5b0.js.map": "/portfolio/build/static/js/main.5272e5b0.js.map"
+    "main.css": "/portfolio/static/css/main.ef78860a.css",
+    "main.js": "/portfolio/static/js/main.03709b5a.js",
+    "static/media/NotoSansKR-Regular.otf": "/portfolio/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
+    "static/media/vision.png": "/portfolio/static/media/vision.467e97c93d64b044ded0.png",
+    "static/media/solutions.jpg": "/portfolio/static/media/solutions.40ceacb3cd99dcc0ad64.jpg",
+    "static/media/strategies.jpg": "/portfolio/static/media/strategies.dc103e4891bdb945a08d.jpg",
+    "static/media/gic.png": "/portfolio/static/media/gic.4dcb37520a4e3f6efcca.png",
+    "static/media/gic_map.png": "/portfolio/static/media/gic_map.19cfe4528fb812387e51.png",
+    "static/media/intro3.png": "/portfolio/static/media/intro3.173a8e4b0d34d6cfe8e8.png",
+    "static/media/OpenSans-Regular.ttf": "/portfolio/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.ef78860a.css.map": "/portfolio/static/css/main.ef78860a.css.map",
+    "main.03709b5a.js.map": "/portfolio/static/js/main.03709b5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebefe503.css",
-    "static/js/main.5272e5b0.js"
+    "static/css/main.ef78860a.css",
+    "static/js/main.03709b5a.js"
   ]
 }
